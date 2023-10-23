@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 💞️ I’m looking to collaborate on programming languages 
 - 📫 How to reach me via gmail
-- 
+ 
 
 <!---
 simpleesarath/simpleesarath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
